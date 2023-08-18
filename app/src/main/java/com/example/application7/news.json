@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "msg": "success",
+  "result": {
+    "curpage": 1,
+    "allnum": 10,
+    "newslist": [
+      {
+        "id": "3f15d58d6f3e5663decec97307156b8d",
+        "ctime": "2023-06-30 20:29",
+        "title": "徐汇AI TOWER、陆家嘴、武康大楼……在元宇宙打",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle586dae59134j00rx22b000b4c000iq00cdg.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8GOQO0S05503FCU.html"
+      },
+      {
+        "id": "b2a3a8ca8c61c1d34ab1e45d77378a50",
+        "ctime": "2023-06-30 18:23",
+        "title": "元宇宙新鲜事|中国团队推出世界首颗AI全自动设",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle586dae59134j00rx22b000b4c000iq00cdg.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8GHKJJ105198CJN.html"
+      },
+      {
+        "id": "07e0ebb71d27130e99f00803bf49f92f",
+        "ctime": "2023-06-30 17:38",
+        "title": "BAT「三杰」相继离任：元宇宙还有明天吗？",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle586dae59134j00rx22b000b4c000iq00cdg.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8GF2CBM05118HA4.html"
+      },
+      {
+        "id": "89a7a4d0fc9c93f6e4b1986df9435dcf",
+        "ctime": "2023-06-30 16:23",
+        "title": "天眼新知 | 与AI时代同行 智能硬件未来可期",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle9789d8271bej00rx247c000yc000go00bkg.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8GAOMTH0519DFFO.html"
+      },
+      {
+        "id": "5d595a8ee164c623b1c0d43f00a858f6",
+        "ctime": "2023-06-30 12:42",
+        "title": "直击2023上海世界移动通信大会 AI和元宇宙新技",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle56481a8106bj00rx1o5u001hc000p000anc.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8FU45J30519DDQ2.html"
+      },
+      {
+        "id": "f8c53f7c6bced665022de43bcd3631c2",
+        "ctime": "2023-06-30 10:27",
+        "title": "时报访谈丨梁志辉：AIGC或将重燃元宇宙商业赛道",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle56481a8106bj00rx1o5u001hc000p000anc.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8FMDDEM0512D71I.html"
+      },
+      {
+        "id": "6a2c6341ef4c7098e6cc4afbdcc7764b",
+        "ctime": "2023-06-30 08:06",
+        "title": "Meta据悉计划让欧盟用户通过Facebook广告直接下",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0630%2Fa7762d36j00rx1hln002sc0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8FE9UJC0534A4SC.html"
+      },
+      {
+        "id": "1da01021253e6b9e1720e897e0b4d344",
+        "ctime": "2023-06-30 08:04",
+        "title": "OpenAI 竞争对手Inflection AI获13亿美元融资，",
+        "description": "6月30日消息，当地时间周四人工智能初创企业InflectionAI表示，已经从微软和英伟达等投资者那里筹集到13亿美元融资。InflectionAI成立仅一年时间，曾获得几家重量级硅谷企业的支持。知情人士表示，最新一轮融资有现金也有云...[阅读更多]",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0630%2F26a36105p00rx1hj4000cc0009c0070c.png&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/tech/article/I8FE7KHA00097U81.html"
+      },
+      {
+        "id": "40da798f1164ddcab9e639df4204aee5",
+        "ctime": "2023-06-30 07:00",
+        "title": "一文看尽MWC:AIGC抢5G风头,裸眼3D太震撼,云电脑",
+        "description": "",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0629%2Fc55d8345j00rx0luq00jrc000p000anm.jpg&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/dy/article/I8E6VIFA051180F7.html"
+      },
+      {
+        "id": "b6de87829cd22d10c6cf23e3f4b10732",
+        "ctime": "2023-06-30 07:34",
+        "title": "全球首款AI生成药物进入人体临床试验",
+        "description": "6月30日消息，本周，全球首款完全由人工智能设计的药物进入人体临床试验阶段。这种药物名为INS018_055，由总部位于香港的生物技术初创公司InsiloMedicine开发，用于治疗特发性肺纤维化（IPF）。特发性肺纤维化是一种慢性疾病...[阅读更多]",
+        "source": "网易科技",
+        "picUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0630%2F4b43b4bep00rx1g5y001tc0009c0070c.png&thumbnail=200y140&quality=100&type=jpg",
+        "url": "https://www.163.com/tech/article/I8FCHC6J00097U81.html"
+      }
+    ]
+  }
+}
